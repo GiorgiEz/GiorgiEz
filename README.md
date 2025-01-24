@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm [Giorgi Liparteliani] 👋
 
-<!--
-**GiorgiEz/GiorgiEz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer and currently a computer science student passionate about building impactful software solutions.
 
-Here are some ideas to get you started:
+## Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/giorgi-liparteliani-885039248/)
+
+## Skills
+
+### Programming Languages
+
+- Python
+- TypeScript
+- JavaScript
+- Java
+
+### Data Science
+
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+### Web Development
+
+- HTML
+- CSS
+- React
+- Express.js
+- Django
+
+### Database Management
+
+- PostgreSQL
+- MySQL
+- MariaDB
+
+### Tools & Platforms
+
+- Git
+- GitHub
+
+## LeetCode
+
+I've solved over **500** problems on LeetCode, with a contest rating of **1545**, placing me in the top **30%** of users.
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=giorgiez&show_icons=true&theme=default)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiez&layout=compact&theme=default)
+
