@@ -42,14 +42,11 @@ I'm a software engineer and currently a computer science student passionate abou
 
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)
 
-- **Problems Solved:**  
   ![Problems Solved](https://img.shields.io/badge/Solved%20Problems-500%2B-green?style=for-the-badge&logo=leetcode&logoColor=white)
 
-- **Contest Rating:**  
-  ![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1800-blue?style=for-the-badge&logo=leetcode&logoColor=white)
+  ![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1550-blue?style=for-the-badge&logo=leetcode&logoColor=white)
 
-- **Top Percentage:**  
-  ![Top Percentage](https://img.shields.io/badge/Top%20Percentage-5%25-orange?style=for-the-badge&logo=leetcode&logoColor=white)
+  ![Top Percentage](https://img.shields.io/badge/Top%20Percentage-30%25-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ## GitHub Stats
 
