@@ -48,6 +48,8 @@ I'm a software engineer and currently a computer science student passionate abou
 
   ![Top Percentage](https://img.shields.io/badge/Top%20Percentage-30%25-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
+  ![Contests Attended](https://img.shields.io/badge/Contests%20PAttended-19-purple?style=for-the-badge&logo=leetcode&logoColor=white)
+
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=giorgiez&show_icons=true&theme=default)
