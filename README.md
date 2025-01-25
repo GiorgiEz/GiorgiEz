@@ -4,7 +4,7 @@ I'm a software engineer and currently a computer science student passionate abou
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/giorgi-liparteliani-885039248/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgi-liparteliani-885039248/)
 
 ## Skills
 
