@@ -39,7 +39,7 @@ I'm a software engineer and currently a computer science student passionate abou
 
 ## LeetCode
 
-[![LeetCode Profile](https://img.shields.io/badge/-LeetCode%20Profile-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/giorgi_ez/)
+[![LeetCode Profile](https://img.shields.io/badge/-LeetCode%20Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/giorgi_ez/)
 
   ![Problems Solved](https://img.shields.io/badge/Solved%20Problems-500%2B-purple?style=for-the-badge&logo=leetcode&logoColor=white)
 
