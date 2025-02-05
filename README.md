@@ -43,9 +43,9 @@ I'm a software engineer and currently a computer science student passionate abou
 
   ![Problems Solved](https://img.shields.io/badge/Solved%20Problems-550%2B-purple?style=for-the-badge&logo=leetcode&logoColor=white)
 
-  ![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1550-purple?style=for-the-badge&logo=leetcode&logoColor=white)
+  ![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1566-purple?style=for-the-badge&logo=leetcode&logoColor=white)
 
-  ![Top Percentage](https://img.shields.io/badge/Top%20Percentage-30%25-purple?style=for-the-badge&logo=leetcode&logoColor=white)
+  ![Top Percentage](https://img.shields.io/badge/Top%20Percentage-28%25-purple?style=for-the-badge&logo=leetcode&logoColor=white)
 
   ![Contests Attended](https://img.shields.io/badge/Contests%20Attended-20-purple?style=for-the-badge&logo=leetcode&logoColor=white)
 
