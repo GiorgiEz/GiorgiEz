@@ -1,6 +1,10 @@
 # Hi there, I'm Giorgi Liparteliani 👋
 
-I'm a software engineer and currently a computer science student passionate about building impactful software solutions.
+I'm a software engineer and currently a computer science student.
+
+I enjoy tackling complex algorithmic challenges and optimizing solutions for efficiency. Over the past few years, I’ve solved 600+ algorithmic problems on Leetcode, covering Graphs, Trees, Arrays, HashMaps, and more. Competitive programming has sharpened my problem-solving mindset, and with 22+ LeetCode contests, I’ve achieved a 1688 rating (Top 13%).
+
+I enjoy problem-solving and continuously improving my understanding of Data Structures, Algorithms, and System Design. Always excited to learn and build new things!
 
 ## Connect with me
 
