@@ -48,7 +48,7 @@ I enjoy problem-solving and continuously improving my understanding of Data Stru
 
   ![Top Percentage](https://img.shields.io/badge/Top%20Percentage-10%25-purple?style=for-the-badge&logo=leetcode&logoColor=white)
 
-  ![Contests Attended](https://img.shields.io/badge/Contests%20Attended-23-purple?style=for-the-badge&logo=leetcode&logoColor=white)
+  ![Contests Attended](https://img.shields.io/badge/Contests%20Attended-24-purple?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ## GitHub Stats
 
