@@ -44,7 +44,7 @@ I enjoy problem-solving and continuously improving my understanding of Data Stru
 
   ![Problems Solved](https://img.shields.io/badge/Solved%20Problems-600%2B-purple?style=for-the-badge&logo=leetcode&logoColor=white)
 
-  ![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1735-purple?style=for-the-badge&logo=leetcode&logoColor=white)
+  ![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1743-purple?style=for-the-badge&logo=leetcode&logoColor=white)
 
   ![Top Percentage](https://img.shields.io/badge/Top%20Percentage-10%25-purple?style=for-the-badge&logo=leetcode&logoColor=white)
 
