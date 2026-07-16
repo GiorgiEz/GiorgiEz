@@ -54,11 +54,6 @@ I enjoy problem-solving and continuously improving my understanding of Data Stru
 
   ![Contests Attended](https://img.shields.io/badge/Contests%20Attended-24-purple?style=for-the-badge&logo=leetcode&logoColor=white)
 
-## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=giorgiez&show_icons=true&theme=default)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiez&layout=compact&theme=default)
-
+## Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=giorgiez)](https://github.com/ryo-ma/github-profile-trophy)
