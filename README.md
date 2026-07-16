@@ -13,13 +13,13 @@ I enjoy problem-solving and continuously improving my understanding of Data Stru
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ### Data Science
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-2C2D72?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ### Frontend
@@ -31,6 +31,7 @@ I enjoy problem-solving and continuously improving my understanding of Data Stru
 ### Backend
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square\&logo=django\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ### Database Management
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -45,7 +46,7 @@ I enjoy problem-solving and continuously improving my understanding of Data Stru
 
 [![LeetCode Profile](https://img.shields.io/badge/-LeetCode%20Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/giorgi_ez/)
 
-  ![Problems Solved](https://img.shields.io/badge/Solved%20Problems-600%2B-purple?style=for-the-badge&logo=leetcode&logoColor=white)
+  ![Problems Solved](https://img.shields.io/badge/Solved%20Problems-700%2B-purple?style=for-the-badge&logo=leetcode&logoColor=white)
 
   ![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1743-purple?style=for-the-badge&logo=leetcode&logoColor=white)
 
