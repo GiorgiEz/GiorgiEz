@@ -1,6 +1,5 @@
-# Hi there, I'm Giorgi Liparteliani 👋
+# I'm Giorgi Liparteliani 👋
 
-I'm currently a computer science student.
 I enjoy problem-solving and continuously improving my understanding of Data Structures, Algorithms, and System Design. Always excited to learn and build new things!
 
 ## Connect with me
