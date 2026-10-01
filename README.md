@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Giorgi Liparteliani 👋</h1>
+<h1 align="center">Hi, I'm Giorgi Liparteliani</h1>
 
 <p align="center">
   I enjoy problem-solving and continuously improving my understanding of Data Structures, Algorithms, and System Design.<br/>
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Programming Languages**<br/>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -52,18 +52,18 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <!-- Replace each REPO_NAME with the actual repository name, and tweak the descriptions as you like. -->
 
 | Project | Description | Tech |
 | --- | --- | --- |
 | [**E-commerce Website**](https://github.com/GiorgiEz/eCommerceWebsite) | Full-stack SPA with routing, global state, and a GraphQL API | React, TypeScript, GraphQL, PHP, MySQL |
-| [**Apartment Analysis Dashboard**](https://github.com/GiorgiEz/apartment-analytics) | Apartment price prediction system and analysis dashboard | Python, Scikit-learn, Selenium, FastAPI, PostgreSQL, React, TypeScript |
+| [**Apartment Analytics**](https://github.com/GiorgiEz/apartment-analytics) | Apartment price prediction system and analysis dashboard | Python, Scikit-learn, Selenium, FastAPI, PostgreSQL, React, TypeScript |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=GiorgiEz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
@@ -76,7 +76,7 @@
 
 ---
 
-## 🧠 LeetCode
+## LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/giorgi_ez/">
