@@ -92,11 +92,3 @@
     <img src="https://leetcard.jacoblin.cool/giorgi_ez?theme=dark&font=Karla&ext=heatmap" alt="LeetCode stats" />
   </a>
 </p>
-
-  ![Problems Solved](https://img.shields.io/badge/Solved%20Problems-700%2B-purple?style=for-the-badge&logo=leetcode&logoColor=white)
-
-  ![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1743-purple?style=for-the-badge&logo=leetcode&logoColor=white)
-
-  ![Top Percentage](https://img.shields.io/badge/Top%20Percentage-10%25-purple?style=for-the-badge&logo=leetcode&logoColor=white)
-
-  ![Contests Attended](https://img.shields.io/badge/Contests%20Attended-24-purple?style=for-the-badge&logo=leetcode&logoColor=white)
