@@ -12,7 +12,6 @@
   <a href="https://leetcode.com/u/giorgi_ez/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=GiorgiEz&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -73,14 +72,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GiorgiEz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiorgiEz&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GiorgiEz&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub trophies" />
 </p>
 
 ---
