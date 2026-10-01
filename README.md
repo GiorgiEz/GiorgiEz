@@ -58,8 +58,8 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [**E-commerce Website**](https://github.com/GiorgiEz/REPO_NAME) | Full-stack SPA with routing, global state, and a GraphQL API | React, TypeScript, GraphQL, PHP, MySQL |
-| [**Apartment Analysis Dashboard**](https://github.com/GiorgiEz/REPO_NAME) | Dashboard for exploring apartment data, backed by a FastAPI service | React, TypeScript, FastAPI |
+| [**E-commerce Website**](https://github.com/GiorgiEz/eCommerceWebsite) | Full-stack SPA with routing, global state, and a GraphQL API | React, TypeScript, GraphQL, PHP, MySQL |
+| [**Apartment Analysis Dashboard**](https://github.com/GiorgiEz/apartment-analytics) | Apartment price prediction system, backed by a Scikit-learn | Python | FastAPI | React, TypeScript, FastAPI |
 
 ---
 
